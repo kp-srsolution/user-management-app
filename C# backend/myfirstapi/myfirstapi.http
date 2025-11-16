@@ -1,0 +1,6 @@
+@myfirstapi_HostAddress = http://localhost:5000
+
+GET {{myfirstapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
